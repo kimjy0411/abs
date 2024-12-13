@@ -1,0 +1,103 @@
+{
+  "metaData": {
+    "File_name": "ST_01_Y20230830_T102151_CAM050000_X01_f000003",
+    "File_format": "jpg",
+    "File_resolution": "1920x1080",
+    "File_cam_ID": "cam05",
+    "Game_date": "2023.08.30.10:21:51",
+    "Game_weather": "cloudy",
+    "Game_temperature(Celsius_degree)": "23",
+    "Game_humidity(percent)": "84",
+    "Game_wind_direction(degrees)": "258",
+    "Game_wind_speed(m/s)": "2",
+    "Player_height(cm)": "190~195",
+    "Player_weight(Kg)": "100~105",
+    "Player_grade": "L4",
+    "Player_position": "batter",
+    "Player_career(year)": "15~20",
+    "Player_bats": "right",
+    "Player_throws": "right",
+    "Situation_umpire_judgement": "strike",
+    "Situation_labeled_judgement": "strike",
+    "Situation_code": "X01",
+    "Ball_labelname": "baseball_ball",
+    "Ball_status": "defense",
+    "License": "ComartsystemConsortium",
+    "Version": "1.0",
+    "Contributer": "ComartsystemConsortium",
+    "Url": "AIHub",
+    "sourcefile": "ST_01_Y20230830_T102151_CAM050000"
+  },
+  "annotation": [
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 1673,
+            "y": 437,
+            "width": 107,
+            "height": 185
+          }
+        ],
+        "label": "Batter"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 1809,
+            "y": 504,
+            "width": 77,
+            "height": 107
+          }
+        ],
+        "label": "Catcher"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 11,
+            "y": 363,
+            "width": 143,
+            "height": 122
+          }
+        ],
+        "label": "Pitcher"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 150,
+            "y": 360,
+            "width": 11,
+            "height": 9
+          }
+        ],
+        "label": "Baseball_ball"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 1633,
+            "y": 586,
+            "width": 44,
+            "height": 15
+          }
+        ],
+        "label": "Home_base"
+      }
+    }
+  ]
+}

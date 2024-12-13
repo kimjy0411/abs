@@ -1,0 +1,103 @@
+{
+  "metaData": {
+    "File_name": "BA_01_Y20230830_T103238_CAM050000_X01_f000004",
+    "File_format": "jpg",
+    "File_resolution": "1920x1080",
+    "File_cam_ID": "cam05",
+    "Game_date": "2023.08.30.10:32:38",
+    "Game_weather": "cloudy",
+    "Game_temperature(Celsius_degree)": "23",
+    "Game_humidity(percent)": "84",
+    "Game_wind_direction(degrees)": "258",
+    "Game_wind_speed(m/s)": "2",
+    "Player_height(cm)": "175~180",
+    "Player_weight(Kg)": "100~105",
+    "Player_grade": "L3",
+    "Player_position": "batter",
+    "Player_career(year)": "5~10",
+    "Player_bats": "right",
+    "Player_throws": "right",
+    "Situation_umpire_judgement": "ball",
+    "Situation_labeled_judgement": "ball",
+    "Situation_code": "X01",
+    "Ball_labelname": "baseball_ball",
+    "Ball_status": "defense",
+    "License": "ComartsystemConsortium",
+    "Version": "1.0",
+    "Contributer": "ComartsystemConsortium",
+    "Url": "AIHub",
+    "sourcefile": "BA_01_Y20230830_T103238_CAM050000"
+  },
+  "annotation": [
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 13,
+            "y": 368,
+            "width": 155,
+            "height": 120
+          }
+        ],
+        "label": "Pitcher"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 199,
+            "y": 337,
+            "width": 12,
+            "height": 7
+          }
+        ],
+        "label": "Baseball_ball"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 1632,
+            "y": 586,
+            "width": 46,
+            "height": 15
+          }
+        ],
+        "label": "Home_base"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 1676,
+            "y": 457,
+            "width": 110,
+            "height": 166
+          }
+        ],
+        "label": "Batter"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 1821,
+            "y": 504,
+            "width": 78,
+            "height": 108
+          }
+        ],
+        "label": "Catcher"
+      }
+    }
+  ]
+}

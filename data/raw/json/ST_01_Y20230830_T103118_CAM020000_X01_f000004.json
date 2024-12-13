@@ -1,0 +1,89 @@
+{
+  "metaData": {
+    "File_name": "ST_01_Y20230830_T103118_CAM020000_X01_f000004",
+    "File_format": "jpg",
+    "File_resolution": "1920x1080",
+    "File_cam_ID": "cam02",
+    "Game_date": "2023.08.30.10:31:18",
+    "Game_weather": "cloudy",
+    "Game_temperature(Celsius_degree)": "23",
+    "Game_humidity(percent)": "84",
+    "Game_wind_direction(degrees)": "258",
+    "Game_wind_speed(m/s)": "2",
+    "Player_height(cm)": "170~175",
+    "Player_weight(Kg)": "75~80",
+    "Player_grade": "L4",
+    "Player_position": "batter",
+    "Player_career(year)": "10~15",
+    "Player_bats": "right",
+    "Player_throws": "right",
+    "Situation_umpire_judgement": "strike",
+    "Situation_labeled_judgement": "strike",
+    "Situation_code": "X01",
+    "Ball_labelname": "baseball_ball",
+    "Ball_status": "defense",
+    "License": "ComartsystemConsortium",
+    "Version": "1.0",
+    "Contributer": "ComartsystemConsortium",
+    "Url": "AIHub",
+    "sourcefile": "ST_01_Y20230830_T103118_CAM020000"
+  },
+  "annotation": [
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 719,
+            "y": 345,
+            "width": 138,
+            "height": 300
+          }
+        ],
+        "label": "Batter"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 483,
+            "y": 532,
+            "width": 154,
+            "height": 247
+          }
+        ],
+        "label": "Catcher"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 275,
+            "y": 474,
+            "width": 139,
+            "height": 346
+          }
+        ],
+        "label": "Umpire1"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 925,
+            "y": 611,
+            "width": 99,
+            "height": 44
+          }
+        ],
+        "label": "Home_base"
+      }
+    }
+  ]
+}

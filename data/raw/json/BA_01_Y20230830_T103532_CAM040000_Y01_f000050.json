@@ -1,0 +1,117 @@
+{
+  "metaData": {
+    "File_name": "BA_01_Y20230830_T103532_CAM040000_Y01_f000050",
+    "File_format": "jpg",
+    "File_resolution": "1920x1080",
+    "File_cam_ID": "cam04",
+    "Game_date": "2023.08.30.10:35:32",
+    "Game_weather": "cloudy",
+    "Game_temperature(Celsius_degree)": "23",
+    "Game_humidity(percent)": "84",
+    "Game_wind_direction(degrees)": "258",
+    "Game_wind_speed(m/s)": "2",
+    "Player_height(cm)": "170~175",
+    "Player_weight(Kg)": "65~70",
+    "Player_grade": "L4",
+    "Player_position": "batter",
+    "Player_career(year)": "10~15",
+    "Player_bats": "left",
+    "Player_throws": "right",
+    "Situation_umpire_judgement": "ball",
+    "Situation_labeled_judgement": "ball",
+    "Situation_code": "Y01",
+    "Ball_labelname": "baseball_ball",
+    "Ball_status": "defense",
+    "License": "ComartsystemConsortium",
+    "Version": "1.0",
+    "Contributer": "ComartsystemConsortium",
+    "Url": "AIHub",
+    "sourcefile": "BA_01_Y20230830_T103532_CAM040000"
+  },
+  "annotation": [
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 1785,
+            "y": 402,
+            "width": 80,
+            "height": 126
+          }
+        ],
+        "label": "Pitcher"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 508,
+            "y": 425,
+            "width": 16,
+            "height": 8
+          }
+        ],
+        "label": "Baseball_ball"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 228,
+            "y": 458,
+            "width": 107,
+            "height": 152
+          }
+        ],
+        "label": "Batter"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 83,
+            "y": 475,
+            "width": 85,
+            "height": 127
+          }
+        ],
+        "label": "Catcher"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 0,
+            "y": 468,
+            "width": 48,
+            "height": 145
+          }
+        ],
+        "label": "Umpire1"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 281,
+            "y": 579,
+            "width": 38,
+            "height": 15
+          }
+        ],
+        "label": "Home_base"
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "metaData": {
+    "File_name": "BA_01_Y20230830_T104031_CAM010000_Z01_f000205",
+    "File_format": "jpg",
+    "File_resolution": "1920x1080",
+    "File_cam_ID": "cam01",
+    "Game_date": "2023.08.30.10:40:31",
+    "Game_weather": "cloudy",
+    "Game_temperature(Celsius_degree)": "23",
+    "Game_humidity(percent)": "84",
+    "Game_wind_direction(degrees)": "258",
+    "Game_wind_speed(m/s)": "2",
+    "Player_height(cm)": "175~180",
+    "Player_weight(Kg)": "70~75",
+    "Player_grade": "L4",
+    "Player_position": "batter",
+    "Player_career(year)": "10~15",
+    "Player_bats": "right",
+    "Player_throws": "right",
+    "Situation_umpire_judgement": "ball",
+    "Situation_labeled_judgement": "ball",
+    "Situation_code": "Z01",
+    "Ball_labelname": "baseball_ball",
+    "Ball_status": "umpire",
+    "License": "ComartsystemConsortium",
+    "Version": "1.0",
+    "Contributer": "ComartsystemConsortium",
+    "Url": "AIHub",
+    "sourcefile": "BA_01_Y20230830_T104031_CAM010000"
+  },
+  "annotation": [
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 702,
+            "y": 511,
+            "width": 281,
+            "height": 464
+          }
+        ],
+        "label": "Umpire1"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 595,
+            "y": 240,
+            "width": 188,
+            "height": 391
+          }
+        ],
+        "label": "Batter"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 892,
+            "y": 590,
+            "width": 98,
+            "height": 48
+          }
+        ],
+        "label": "Home_base"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 994,
+            "y": 392,
+            "width": 243,
+            "height": 376
+          }
+        ],
+        "label": "Catcher"
+      }
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "metaData": {
+    "File_name": "BA_01_Y20230830_T102407_CAM050000_Y02_f000059",
+    "File_format": "jpg",
+    "File_resolution": "1920x1080",
+    "File_cam_ID": "cam05",
+    "Game_date": "2023.08.30.10:24:07",
+    "Game_weather": "cloudy",
+    "Game_temperature(Celsius_degree)": "23",
+    "Game_humidity(percent)": "84",
+    "Game_wind_direction(degrees)": "258",
+    "Game_wind_speed(m/s)": "2",
+    "Player_height(cm)": "175~180",
+    "Player_weight(Kg)": "80~85",
+    "Player_grade": "L4",
+    "Player_position": "batter",
+    "Player_career(year)": "10~15",
+    "Player_bats": "right",
+    "Player_throws": "right",
+    "Situation_umpire_judgement": "ball",
+    "Situation_labeled_judgement": "ball",
+    "Situation_code": "Y02",
+    "Ball_labelname": "baseball_ball",
+    "Ball_status": "defense",
+    "License": "ComartsystemConsortium",
+    "Version": "1.0",
+    "Contributer": "ComartsystemConsortium",
+    "Url": "AIHub",
+    "sourcefile": "BA_01_Y20230830_T102407_CAM050000"
+  },
+  "annotation": [
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 85,
+            "y": 358,
+            "width": 93,
+            "height": 127
+          }
+        ],
+        "label": "Pitcher"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 1760,
+            "y": 540,
+            "width": 13,
+            "height": 7
+          }
+        ],
+        "label": "Baseball_ball"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 1783,
+            "y": 505,
+            "width": 111,
+            "height": 106
+          }
+        ],
+        "label": "Catcher"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 1640,
+            "y": 464,
+            "width": 114,
+            "height": 153
+          }
+        ],
+        "label": "Batter"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 1633,
+            "y": 586,
+            "width": 44,
+            "height": 16
+          }
+        ],
+        "label": "Home_base"
+      }
+    }
+  ]
+}

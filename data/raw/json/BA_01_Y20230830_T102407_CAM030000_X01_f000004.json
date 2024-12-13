@@ -1,0 +1,89 @@
+{
+  "metaData": {
+    "File_name": "BA_01_Y20230830_T102407_CAM030000_X01_f000004",
+    "File_format": "jpg",
+    "File_resolution": "1920x1080",
+    "File_cam_ID": "cam03",
+    "Game_date": "2023.08.30.10:24:07",
+    "Game_weather": "cloudy",
+    "Game_temperature(Celsius_degree)": "23",
+    "Game_humidity(percent)": "84",
+    "Game_wind_direction(degrees)": "258",
+    "Game_wind_speed(m/s)": "2",
+    "Player_height(cm)": "175~180",
+    "Player_weight(Kg)": "80~85",
+    "Player_grade": "L4",
+    "Player_position": "batter",
+    "Player_career(year)": "10~15",
+    "Player_bats": "right",
+    "Player_throws": "right",
+    "Situation_umpire_judgement": "ball",
+    "Situation_labeled_judgement": "ball",
+    "Situation_code": "X01",
+    "Ball_labelname": "baseball_ball",
+    "Ball_status": "defense",
+    "License": "ComartsystemConsortium",
+    "Version": "1.0",
+    "Contributer": "ComartsystemConsortium",
+    "Url": "AIHub",
+    "sourcefile": "BA_01_Y20230830_T102407_CAM030000"
+  },
+  "annotation": [
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 1016,
+            "y": 662,
+            "width": 104,
+            "height": 36
+          }
+        ],
+        "label": "Home_base"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 1132,
+            "y": 400,
+            "width": 175,
+            "height": 350
+          }
+        ],
+        "label": "Batter"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 1456,
+            "y": 501,
+            "width": 150,
+            "height": 238
+          }
+        ],
+        "label": "Catcher"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 1681,
+            "y": 445,
+            "width": 167,
+            "height": 341
+          }
+        ],
+        "label": "Umpire1"
+      }
+    }
+  ]
+}

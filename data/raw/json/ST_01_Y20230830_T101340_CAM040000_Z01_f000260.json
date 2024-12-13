@@ -1,0 +1,117 @@
+{
+  "metaData": {
+    "File_name": "ST_01_Y20230830_T101340_CAM040000_Z01_f000260",
+    "File_format": "jpg",
+    "File_resolution": "1920x1080",
+    "File_cam_ID": "cam04",
+    "Game_date": "2023.08.30.10:13:40",
+    "Game_weather": "cloudy",
+    "Game_temperature(Celsius_degree)": "23",
+    "Game_humidity(percent)": "84",
+    "Game_wind_direction(degrees)": "258",
+    "Game_wind_speed(m/s)": "1.9",
+    "Player_height(cm)": "170~175",
+    "Player_weight(Kg)": "75~80",
+    "Player_grade": "L4",
+    "Player_position": "batter",
+    "Player_career(year)": "10~15",
+    "Player_bats": "right",
+    "Player_throws": "right",
+    "Situation_umpire_judgement": "strike",
+    "Situation_labeled_judgement": "strike",
+    "Situation_code": "Z01",
+    "Ball_labelname": "baseball_ball",
+    "Ball_status": "umpire",
+    "License": "ComartsystemConsortium",
+    "Version": "1.0",
+    "Contributer": "ComartsystemConsortium",
+    "Url": "AIHub",
+    "sourcefile": "ST_01_Y20230830_T101340_CAM040000"
+  },
+  "annotation": [
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 280,
+            "y": 581,
+            "width": 46,
+            "height": 13
+          }
+        ],
+        "label": "Home_base"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 0,
+            "y": 440,
+            "width": 67,
+            "height": 164
+          }
+        ],
+        "label": "Umpire1"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 110,
+            "y": 465,
+            "width": 81,
+            "height": 146
+          }
+        ],
+        "label": "Catcher"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 225,
+            "y": 410,
+            "width": 38,
+            "height": 164
+          }
+        ],
+        "label": "Batter"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 1730,
+            "y": 369,
+            "width": 61,
+            "height": 174
+          }
+        ],
+        "label": "Pitcher"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 110,
+            "y": 479,
+            "width": 11,
+            "height": 8
+          }
+        ],
+        "label": "Baseball_ball"
+      }
+    }
+  ]
+}

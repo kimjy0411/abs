@@ -1,0 +1,103 @@
+{
+  "metaData": {
+    "File_name": "ST_01_Y20230830_T102314_CAM010000_Z01_f000309",
+    "File_format": "jpg",
+    "File_resolution": "1920x1080",
+    "File_cam_ID": "cam01",
+    "Game_date": "2023.08.30.10:23:14",
+    "Game_weather": "cloudy",
+    "Game_temperature(Celsius_degree)": "23",
+    "Game_humidity(percent)": "84",
+    "Game_wind_direction(degrees)": "258",
+    "Game_wind_speed(m/s)": "2",
+    "Player_height(cm)": "175~180",
+    "Player_weight(Kg)": "80~85",
+    "Player_grade": "L4",
+    "Player_position": "batter",
+    "Player_career(year)": "10~15",
+    "Player_bats": "right",
+    "Player_throws": "right",
+    "Situation_umpire_judgement": "strike",
+    "Situation_labeled_judgement": "strike",
+    "Situation_code": "Z01",
+    "Ball_labelname": "baseball_ball",
+    "Ball_status": "umpire",
+    "License": "ComartsystemConsortium",
+    "Version": "1.0",
+    "Contributer": "ComartsystemConsortium",
+    "Url": "AIHub",
+    "sourcefile": "ST_01_Y20230830_T102314_CAM010000"
+  },
+  "annotation": [
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 653,
+            "y": 272,
+            "width": 130,
+            "height": 359
+          }
+        ],
+        "label": "Batter"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 782,
+            "y": 502,
+            "width": 262,
+            "height": 387
+          }
+        ],
+        "label": "Catcher"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 917,
+            "y": 588,
+            "width": 90,
+            "height": 50
+          }
+        ],
+        "label": "Home_base"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 666,
+            "y": 560,
+            "width": 249,
+            "height": 484
+          }
+        ],
+        "label": "Umpire1"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 934,
+            "y": 549,
+            "width": 11,
+            "height": 12
+          }
+        ],
+        "label": "Baseball_ball"
+      }
+    }
+  ]
+}

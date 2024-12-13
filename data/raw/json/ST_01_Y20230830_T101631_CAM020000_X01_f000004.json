@@ -1,0 +1,89 @@
+{
+  "metaData": {
+    "File_name": "ST_01_Y20230830_T101631_CAM020000_X01_f000004",
+    "File_format": "jpg",
+    "File_resolution": "1920x1080",
+    "File_cam_ID": "cam02",
+    "Game_date": "2023.08.30.10:16:31",
+    "Game_weather": "cloudy",
+    "Game_temperature(Celsius_degree)": "23",
+    "Game_humidity(percent)": "84",
+    "Game_wind_direction(degrees)": "258",
+    "Game_wind_speed(m/s)": "2",
+    "Player_height(cm)": "180~185",
+    "Player_weight(Kg)": "85~90",
+    "Player_grade": "L3",
+    "Player_position": "batter",
+    "Player_career(year)": "5~10",
+    "Player_bats": "right",
+    "Player_throws": "right",
+    "Situation_umpire_judgement": "strike",
+    "Situation_labeled_judgement": "strike",
+    "Situation_code": "X01",
+    "Ball_labelname": "baseball_ball",
+    "Ball_status": "defense",
+    "License": "ComartsystemConsortium",
+    "Version": "1.0",
+    "Contributer": "ComartsystemConsortium",
+    "Url": "AIHub",
+    "sourcefile": "ST_01_Y20230830_T101631_CAM020000"
+  },
+  "annotation": [
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 926,
+            "y": 611,
+            "width": 99,
+            "height": 43
+          }
+        ],
+        "label": "Home_base"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 301,
+            "y": 475,
+            "width": 142,
+            "height": 342
+          }
+        ],
+        "label": "Umpire1"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 745,
+            "y": 286,
+            "width": 150,
+            "height": 331
+          }
+        ],
+        "label": "Batter"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 521,
+            "y": 520,
+            "width": 152,
+            "height": 260
+          }
+        ],
+        "label": "Catcher"
+      }
+    }
+  ]
+}

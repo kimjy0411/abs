@@ -1,0 +1,103 @@
+{
+  "metaData": {
+    "File_name": "ST_01_Y20230830_T101340_CAM010000_Y02_f000065",
+    "File_format": "jpg",
+    "File_resolution": "1920x1080",
+    "File_cam_ID": "cam01",
+    "Game_date": "2023.08.30.10:13:40",
+    "Game_weather": "cloudy",
+    "Game_temperature(Celsius_degree)": "23",
+    "Game_humidity(percent)": "84",
+    "Game_wind_direction(degrees)": "258",
+    "Game_wind_speed(m/s)": "1.9",
+    "Player_height(cm)": "170~175",
+    "Player_weight(Kg)": "75~80",
+    "Player_grade": "L4",
+    "Player_position": "batter",
+    "Player_career(year)": "10~15",
+    "Player_bats": "right",
+    "Player_throws": "right",
+    "Situation_umpire_judgement": "strike",
+    "Situation_labeled_judgement": "strike",
+    "Situation_code": "Y02",
+    "Ball_labelname": "baseball_ball",
+    "Ball_status": "defense",
+    "License": "ComartsystemConsortium",
+    "Version": "1.0",
+    "Contributer": "ComartsystemConsortium",
+    "Url": "AIHub",
+    "sourcefile": "ST_01_Y20230830_T101340_CAM010000"
+  },
+  "annotation": [
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 899,
+            "y": 590,
+            "width": 107,
+            "height": 47
+          }
+        ],
+        "label": "Home_base"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 924,
+            "y": 504,
+            "width": 21,
+            "height": 23
+          }
+        ],
+        "label": "Baseball_ball"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 680,
+            "y": 297,
+            "width": 140,
+            "height": 386
+          }
+        ],
+        "label": "Batter"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 848,
+            "y": 536,
+            "width": 209,
+            "height": 303
+          }
+        ],
+        "label": "Catcher"
+      }
+    },
+    {
+      "box": {
+        "type": "box",
+        "location": [
+          {
+            "x": 696,
+            "y": 584,
+            "width": 283,
+            "height": 398
+          }
+        ],
+        "label": "Umpire1"
+      }
+    }
+  ]
+}
